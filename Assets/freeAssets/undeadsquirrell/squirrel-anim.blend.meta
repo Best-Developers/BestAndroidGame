@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 121936df82349de4e91b0564bd657043
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_L_001
+    100004: Arm_L_002
+    100006: Arm_R
+    100008: Arm_R_001
+    100010: Arm_R_002
+    100012: Armature
+    100014: Backbone
+    100016: Backbone_001
+    100018: Ears
+    100020: Fingers
+    100022: Head
+    100024: Head_0
+    100026: IK-Arm_L
+    100028: IK-Arm_R
+    100030: IK-Head
+    100032: IK-Leg_L
+    100034: IK-Leg_R
+    100036: IK-Pan
+    100038: IK-Tail
+    100040: Leg_L
+    100042: Leg_L_001
+    100044: Leg_L_002
+    100046: Leg_L_003
+    100048: Leg_R
+    100050: Leg_R_001
+    100052: Leg_R_002
+    100054: Leg_R_003
+    100056: Main
+    100058: Mouth
+    100060: Neck
+    100062: Pan
+    100064: Plane
+    100066: Squirrel
+    100068: //RootNode
+    100070: Tail
+    100072: Tail_001
+    100074: Tail_002
+    100076: Tail_003
+    100078: Tail_004
+    100080: Tail_005
+    100082: Teeth
+    400000: Arm_L
+    400002: Arm_L_001
+    400004: Arm_L_002
+    400006: Arm_R
+    400008: Arm_R_001
+    400010: Arm_R_002
+    400012: Armature
+    400014: Backbone
+    400016: Backbone_001
+    400018: Ears
+    400020: Fingers
+    400022: Head
+    400024: Head_0
+    400026: IK-Arm_L
+    400028: IK-Arm_R
+    400030: IK-Head
+    400032: IK-Leg_L
+    400034: IK-Leg_R
+    400036: IK-Pan
+    400038: IK-Tail
+    400040: Leg_L
+    400042: Leg_L_001
+    400044: Leg_L_002
+    400046: Leg_L_003
+    400048: Leg_R
+    400050: Leg_R_001
+    400052: Leg_R_002
+    400054: Leg_R_003
+    400056: Main
+    400058: Mouth
+    400060: Neck
+    400062: Pan
+    400064: Plane
+    400066: Squirrel
+    400068: //RootNode
+    400070: Tail
+    400072: Tail_001
+    400074: Tail_002
+    400076: Tail_003
+    400078: Tail_004
+    400080: Tail_005
+    400082: Teeth
+    2100000: Head__Head
+    2100002: Body__Body
+    2100004: Ear-Hair__Head
+    2100006: Body_001
+    2300000: Plane
+    3300000: Plane
+    4300000: Head
+    4300002: Squirrel
+    4300004: Teeth
+    4300006: Fingers
+    4300008: Ears
+    4300010: Plane
+    7400000: Default Take
+    7400002: Attack_000
+    7400004: Attack_001
+    7400006: Attack_002
+    7400008: Attack_003
+    7400010: Attack_Begin
+    7400012: Attack_End
+    7400014: Attack_Hold
+    7400016: Die_000
+    7400018: Die_001
+    7400020: Idle
+    7400022: Idle_000
+    7400024: Idle_001
+    7400026: Idle_002
+    7400028: Idle_003
+    7400030: Idle_004
+    7400032: Jump_Attack
+    7400034: Jump_Begin
+    7400036: Jump_End
+    7400038: Jump_Fly
+    7400040: Pain_000
+    7400042: Pain_001
+    7400044: Pain_002
+    7400046: Pain_003
+    7400048: Run
+    7400050: Run_Begin
+    7400052: Run_End
+    7400054: Stand
+    7400056: Stand_001
+    9500000: //RootNode
+    13700000: Ears
+    13700002: Fingers
+    13700004: Head
+    13700006: Squirrel
+    13700008: Teeth
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
